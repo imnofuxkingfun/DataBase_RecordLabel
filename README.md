@@ -31,3 +31,5 @@ The database captures key relationships between record labels, artists, and thei
 This database enables users to store and manage information related to record labels, contracts, bands, musicians, instruments, albums, songs, and employees. It allows for data creation, reading, updating, and deletion, making it a valuable tool for record label companies that need an efficient and structured way to store and manage their data.  
 
 The project is implemented in a complex manner and includes thorough documentation, covering all aspects from entity descriptions to relational schema design, constraints, and SQL implementation. It follows best practices in database normalization, query optimization, and data consistency management.
+
+![Diagrama_Conceptuala](https://github.com/user-attachments/assets/746c13d6-294e-46da-9b59-c8aa26d6e1c5)
